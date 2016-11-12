@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-   
+    background-image: url("https://www.walldevil.com/wallpapers/a18/opera-website-speaker-background-ground-back.jpg");
     margin-top: 60px;
 }
 
@@ -21,7 +21,7 @@ body {
   
 }
 .container{
-     background-image: url("https://www.walldevil.com/wallpapers/a18/opera-website-speaker-background-ground-back.jpg");
+    
 max-width: 880px;
 margin: 0 auto;
 color: #05057b;
