@@ -21,6 +21,7 @@ body {
   
 }
 .container{
+     background-image: url("bgdesert.jpg");
 max-width: 880px;
 margin: 0 auto;
 color: #05057b;
