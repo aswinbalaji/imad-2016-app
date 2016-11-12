@@ -73,7 +73,7 @@ h1 {
       -26px 52px 1px #dfdddc, 
       -27px 54px 1px #e2e0df, 
       -28px 56px 1px #e4e3e2;
-  }
+}}
   &.deepshadow {
     color: #e0dfdc;
     background-color: #333;
@@ -113,4 +113,4 @@ h1 {
       4px 4px 0px #d5d5d5, 
       7px 7px 0px rgba(0, 0, 0, 0.2);
   }
-}
+}}
